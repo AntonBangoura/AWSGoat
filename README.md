@@ -227,3 +227,9 @@ You should have received a copy of the MIT License along with this program. If n
 - [ReconPal: Leveraging NLP for Infosec](https://github.com/pentesteracademy/reconpal) 
 - [VoIPShark: Open Source VoIP Analysis Platform](https://github.com/pentesteracademy/voipshark)
 - [BLEMystique](https://github.com/pentesteracademy/blemystique)
+
+
+
+
+
+I choose CloudGoat to increase my knowledge of the cloud security. I managed to wrap the two mudules, and I will provide the documentation soon.
